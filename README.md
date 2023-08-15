@@ -4,15 +4,15 @@ Hi there 👋
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working as aFree Lance Developer
+ 🔭 I’m currently working as a Free Lance Developer
 - 🌱 I’m a full stack Developer
-- 👯 I’m lcurrently learning Javascript & Vue JS
+- 👯 Currently learning Javascript & Vue JS
 - 💬 Ask me about Web Dev & Open source
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ... Staunch Arsenal supporter... #Gunnersforlife
 
-**TECH STACK**
+
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
