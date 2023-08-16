@@ -1,16 +1,13 @@
 Hi there 👋
 
-**MaaKen/MaaKen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
  🔭 I’m currently working as a Free Lance Developer
 - 🌱 I’m a full stack Developer
 - 👯 Currently learning Javascript & Vue JS
 - 💬 Ask me about Web Dev & Open source
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ... Staunch Arsenal supporter... #Gunnersforlife
+- ⚡ Fun fact: ...
+- Staunch Arsenal supporter... **#Gunnersforlife**
 
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
